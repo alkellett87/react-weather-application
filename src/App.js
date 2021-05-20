@@ -1,12 +1,16 @@
 import React from "react";
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
+export default function App() {
+  return <div className="App">
       <h1> Weather Application </h1>
+      <footer>
+        This{" "}
+        <a href="https://github.com/alkellett87/react-weather-application" target="_blank">
+        open-sourced
+        </a>
+       {" "} weather application was coded by Ann Louise Kellett.
+      </footer>
     </div>
-  );
+  ;
 }
-
-export default App;
