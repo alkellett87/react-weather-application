@@ -8,7 +8,8 @@ export default function App() {
       <Weather/>
       <footer>
         This{" "}
-        <a href="https://github.com/alkellett87/react-weather-application" target="_blank">
+        <a href="https://github.com/alkellett87/react-weather-application"
+           target="_blank">      
         open-sourced
         </a>
        {" "} weather application was coded by Ann Louise Kellett.
