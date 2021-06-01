@@ -9,7 +9,7 @@ export default function App() {
       <footer>
         This{" "}
         <a href="https://github.com/alkellett87/react-weather-application"
-           target="_blank" rel="noopener noreferrer">      
+           target="_blank" rel="noreferrer">      
         open-sourced
         </a>
        {" "} weather application was coded by Ann Louise Kellett.
