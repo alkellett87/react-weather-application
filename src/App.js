@@ -9,12 +9,12 @@ export default function App() {
       <Weather defaultCity="New York" />
     
       <footer>
-        This{" "}
+        This weather application was coded by Ann Louise Kellett and is open-sourced on {" "}
         <a href="https://github.com/alkellett87/react-weather-application"
            target="_blank" rel="no opener noreferrer">      
-        open-sourced
+        GitHub.
         </a>
-       {" "} weather application was coded by Ann Louise Kellett.
+       {" "}
       </footer>
       </div>
     </div>
